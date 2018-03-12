@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="oppg2a.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5446"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5446-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5446-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-4-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5446-3-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5294271"
+     inkscape:cx="346.33021"
+     inkscape:cy="689.86133"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3701"
+       transform="scale(0.26458333)"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1"
+       d="M 362.5,289.66211 A 53.928569,46.785711 0 0 0 308.57227,336.44922 53.928569,46.785711 0 0 0 362.5,383.23438 53.928569,46.785711 0 0 0 416.42773,336.44922 53.928569,46.785711 0 0 0 362.5,289.66211 Z" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4510"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.94494048,1.1339286)"><flowRegion
+         id="flowRegion4512"
+         style="font-size:26.66666794px"><rect
+           id="rect4514"
+           width="72.85714"
+           height="41.42857"
+           x="328.57144"
+           y="316.09113"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara4516">P(D)</flowPara></flowRoot>    <ellipse
+       id="path3701-7"
+       cx="68.105766"
+       cy="127.6937"
+       rx="14.2686"
+       ry="12.37872"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4510-1"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,28.525135,40.712609)"><flowRegion
+         id="flowRegion4512-4"
+         style="font-size:26.66666794px"><rect
+           id="rect4514-7"
+           width="112.85715"
+           height="50.714264"
+           x="314.28574"
+           y="311.09113"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara4516-2">P(B|D)</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="M 73.401871,115.74927 87.027424,98.601408"
+       id="path5772"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-4)"
+       d="M 119.13713,115.27103 105.51157,98.123158"
+       id="path5772-1"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       id="path3701-7-2"
+       cx="123.69147"
+       cy="127.63784"
+       rx="14.2686"
+       ry="12.37872"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4510-1-6"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.638484,41.207719)"><flowRegion
+         id="flowRegion4512-4-8"
+         style="font-size:26.66666794px"><rect
+           id="rect4514-7-0"
+           width="112.85715"
+           height="50.714264"
+           x="314.28574"
+           y="311.09113"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara4516-2-1">P(C|D)</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-9)"
+       d="M 85.230093,156.78985 71.60454,139.64198"
+       id="path5772-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-4-1)"
+       d="m 105.58345,156.27086 13.62556,-17.14788"
+       id="path5772-1-7"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       id="path3701-7-27"
+       cx="95.666267"
+       cy="165.86975"
+       rx="14.2686"
+       ry="12.37872"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4510-1-6-1"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22600155,0,0,0.20382409,11.709923,99.2805)"><flowRegion
+         id="flowRegion4512-4-8-3"
+         style="font-size:26.66666794px"><rect
+           id="rect4514-7-0-6"
+           width="139.01073"
+           height="56.59882"
+           x="314.28574"
+           y="311.09113"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara4516-2-1-5">P(A|B,C)</flowPara></flowRoot>  </g>
+</svg>
