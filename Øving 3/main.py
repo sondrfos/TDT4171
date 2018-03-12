@@ -156,7 +156,7 @@ def testTree(tree, testData):
 			
 
 
-importance = 0
+importance = 1
 trainingData = readExamples(TRAIN)
 testData = readExamples(TEST)
 tree = decisionTreeLearning(trainingData, ATTRIBUTES, [], importance)
