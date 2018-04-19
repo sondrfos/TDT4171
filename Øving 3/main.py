@@ -10,6 +10,7 @@ TEST = "test.txt"
 
 class Tree(object):
 
+
 	def __init__(self, classification, label):
 		self.classification = classification
 		self.label = label
@@ -63,6 +64,8 @@ def puralityValue(examples):
 	return 2
 
 def allElementsEqualClass(examples):
+	if not examples:
+		return -1
 	example = examples[0]
 	firstClass = example[ATTR]
 	for example in examples:
